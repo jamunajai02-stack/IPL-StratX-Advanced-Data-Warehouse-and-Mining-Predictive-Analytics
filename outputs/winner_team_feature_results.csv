@@ -1,0 +1,4 @@
+model,accuracy_percent
+Majority baseline,54.67
+First-innings statistics,67.76
+Statistics + teams + venue,66.36

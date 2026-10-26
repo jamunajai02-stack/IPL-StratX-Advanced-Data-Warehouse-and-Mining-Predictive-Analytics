@@ -1,0 +1,6 @@
+Model,Accuracy (%)
+Random Forest 600,68.06
+Random Forest Deeper,68.06
+Random Forest 300,67.59
+Extra Trees,67.59
+Baseline,55.09

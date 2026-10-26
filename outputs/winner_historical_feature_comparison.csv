@@ -1,0 +1,5 @@
+Model,Accuracy (%)
+Random Forest - Existing Features,67.59
+Extra Trees - Historical Features,66.67
+Random Forest - Historical Features,64.81
+Baseline,55.09
